@@ -50,4 +50,9 @@ public class Seller {
 		return sales;
 	}
 
+	public long getID() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
